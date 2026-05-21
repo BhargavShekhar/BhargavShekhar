@@ -50,21 +50,16 @@
     <picture> <img align="center" src="https://github.com/user-attachments/assets/37f43d38-b1df-4049-bb31-267cc92ebd51"></picture>
     </div><div><ul>
         <li>A passionate Self-taught Software developer</li>
-        <li>Playing chess in spare time on <a href="https://www.chess.com/member/legendrarywarrior" target="_blank">chess.com</a></li>
-        <li>Currently learning Digital Signal Processing</li>
-        <li>Check out my <a href="https://opensea.io/collection/synthesized-infinity" target="_blank">NFT Collection</a></li>
+        <li>Playing chess in spare time on <a href="https://www.chess.com/member/blundernight" target="_blank">chess.com</a></li>
     </ul>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
 
----
-
 ### 🧠 LeetCode
 
 > 500+ problems solved · [View profile →](https://leetcode.com/u/Bhargav_Shekhar/)
 
----
 <details><summary><h2> Some common Integrals </h2></summary>
 <!--<p>
 
