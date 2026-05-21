@@ -42,6 +42,8 @@
 ![Batch](https://img.shields.io/badge/Graduation-2027-339933?style=flat-square&logo=mortarboard&logoColor=white)
 ![Open to work](https://img.shields.io/badge/Status-Open_to_Internships-4ade80?style=flat-square)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhargavShekhar&theme=github-compact&hide_border=true&area=true" width="100%"/>
+
 ---
 
 ### 🧠 LeetCode
