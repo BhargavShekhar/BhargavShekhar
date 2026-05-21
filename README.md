@@ -41,22 +41,11 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=BhargavShekhar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhargavShekhar&theme=github-dark-blue&hide_border=true" height="160"/>
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhargavShekhar&theme=github-compact&hide_border=true" width="100%"/>
 
 ---
-
-### 📊 Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhargavShekhar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=BhargavShekhar&theme=github-dark-blue&hide_border=true" height="165"/>
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhargavShekhar&theme=github-compact&hide_border=true&area=true" width="100%"/>
 
 ### 🧠 LeetCode
 
