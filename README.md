@@ -23,7 +23,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231162?style=flat-square&logo=apachekafka&logoColor=white)
 
 ---
 
@@ -48,6 +47,16 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhargavShekhar&theme=github-compact&hide_border=true" width="100%"/>
 
 ---
+
+### 📊 Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhargavShekhar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="165"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=BhargavShekhar&theme=github-dark-blue&hide_border=true" height="165"/>
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhargavShekhar&theme=github-compact&hide_border=true&area=true" width="100%"/>
 
 ### 🧠 LeetCode
 
