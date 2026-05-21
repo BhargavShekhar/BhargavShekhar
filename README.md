@@ -48,7 +48,7 @@
 
 ### 🧠 LeetCode
 
-> 500+ problems solved · [View profile →](https://leetcode.com/BhargavShekhar)
+> 500+ problems solved · [View profile →](https://leetcode.com/u/Bhargav_Shekhar/)
 
 ---
 
