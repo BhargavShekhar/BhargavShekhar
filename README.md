@@ -40,7 +40,8 @@
 ### 📊 Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=BhargavShekhar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BhargavShekhar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="165"/>
+  &nbsp;
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhargavShekhar&theme=github-compact&hide_border=true" width="100%"/>
