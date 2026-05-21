@@ -45,12 +45,57 @@
 
 ---
 
+## <picture><img src = "https://github.com/user-attachments/assets/9afd0edc-98da-4ce7-9388-faa293cdf7da" width = 50px></picture> **About me**
+<div align="center">
+    <picture> <img align="center" src="https://github.com/user-attachments/assets/37f43d38-b1df-4049-bb31-267cc92ebd51"></picture>
+    </div><div><ul>
+        <li>A passionate Self-taught Software developer</li>
+        <li>Playing chess in spare time on <a href="https://www.chess.com/member/legendrarywarrior" target="_blank">chess.com</a></li>
+        <li>Currently learning Digital Signal Processing</li>
+        <li>Check out my <a href="https://opensea.io/collection/synthesized-infinity" target="_blank">NFT Collection</a></li>
+    </ul>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
+
+---
+
 ### 🧠 LeetCode
 
 > 500+ problems solved · [View profile →](https://leetcode.com/u/Bhargav_Shekhar/)
+
+---
+<details><summary><h2> Some common Integrals </h2></summary>
+<!--<p>
+
+```math
+\huge \displaystyle \int \limits_{0}^{\infty} \frac{\cos(ax)}{x} dx = 0
+```
+    
+```math
+\huge \displaystyle \int \limits_{0}^{\infty} \frac{\sin(ax)}{x} dx = \frac{\pi}{2}
+```
+    
+```math
+\huge \displaystyle \int \limits_{-\infty}^{\infty} e^{-ax^2} dx = \huge \displaystyle 2 \int \limits_{0}^{\infty} e^{-ax^2} dx = \sqrt{\frac{\pi}{a}}
+```
+
+```math
+\huge \displaystyle \int e^{ax}\sin(bx) dx = \frac{e^{ax}}{a^2 + b^2} \left(a\sin(bx)-b\cos(bx)\right) + C
+```
+
+```math
+\huge \displaystyle \int e^{ax}\cos(bx) dx = \frac{e^{ax}}{a^2 + b^2} \left(a\cos(bx)+b\sin(bx)\right) + C
+```
+ 
+</p>-->
+
+![Integrals](https://github.com/DarkMortal/DarkMortal/assets/67017303/ec7fdb17-0f0b-4a5a-be29-8718261a0885)
+</details>
 
 ---
 
 <p align="center">
   <sub>📬 <a href="mailto:bhargavpathak91021@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/bhargav-shekhar-845991286/">LinkedIn</a> · <a href="https://github.com/BhargavShekhar">GitHub</a></sub>
 </p>
+
